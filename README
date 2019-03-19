@@ -1,0 +1,19 @@
+BOOKSTORE REST API
+----------------------------------------------------------------------------------------
+
+Ejemplo de API REST desarrollada con Spring Boot, Spring Data JPA,
+Maven y PostgreSQL.
+
+La aplicación contiene tres sencillos servicios rest (book, categories and authors)
+para ser utilizados por una aplicación "Bookstore Cliente".
+
+
+----------------------------------------------------------------------------------------
+
+Github repository:  https://github.com/edgar-code-repository/spring-boot-rest-books.git
+
+
+----------------------------------------------------------------------------------------
+
+
+
