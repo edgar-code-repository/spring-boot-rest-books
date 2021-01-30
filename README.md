@@ -1,36 +1,30 @@
 BOOKSTORE REST API
 ----------------------------------------------------------------------------------------
 
-Ejemplo de API REST desarrollada con Spring Boot, Spring Data JPA,
-Maven y PostgreSQL.
+REST API built with Spring Boot, Spring Data JPA, Maven and PostgreSQL.
 
-La aplicación contiene tres sencillos servicios rest (books, categories and authors)
-para ser utilizados por una aplicación "Bookstore Cliente".
-
+This app contains three simple Rest Services that deal with information about
+books, categories and authors.
 
 ----------------------------------------------------------------------------------------
 
-Llamada GET a servicio "books" desde Postman:
+Get call to service "books" from Postman:
 
 ![Screenshot Books](screenshots/spring-boot-rest-books-postman-call.png)
 
 ----------------------------------------------------------------------------------------
 
-Llamada GET a servicio "categories" desde Postman:
+Get call to service "categories" from Postman:
 
 ![Screenshot Categories](screenshots/spring-boot-rest-categories-postman-call.png)
 
 ----------------------------------------------------------------------------------------
 
-Llamada GET a servicio "authors" desde Postman:
+Get call to service "authors" from Postman:
 
 ![Screenshot Authors](screenshots/spring-boot-rest-authors-postman-call.png)
 
 ----------------------------------------------------------------------------------------
 
-Github repository:  https://github.com/edgar-code-repository/spring-boot-rest-books.git
-
-
-----------------------------------------------------------------------------------------
 
 
